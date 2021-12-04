@@ -31,7 +31,7 @@ Roman chuprina technical journalist at SPD Group, covering AI/ML, IoT, and Block
 
 After cleaning the data and extracting the required columns in the dataset I’m going to check the number of fraudulent activities. In one of the columns, we can 0’s and 1’s where the 0 represents non fraudulent activities and 1’s represent the fraudulent activities. This column helps us to work on finding the accuracy using different machine learning algorithms.
 
-**About the dataset:****
+**About the dataset:**
 
 I have chosen this dataset from Kaggle. This dataset consisted around 2lakh records from which I have taken 15000 records for my convenience. The dataset has 31 columns where the time, amount and class are the important columns and all others are different attributes contributing to these columns which are taken from V2 to V29.
 
@@ -45,7 +45,7 @@ I have uploaded a pynb file where we can see all the analysis and visualizations
 
 **Conclusion:**
 
-	By performing machine learning algorithms, I can conclude by finding and comparing the accuracy from decision tree and logistic regression. Here, using python helps in providing the visualizations of various attributes. 
+By performing machine learning algorithms, I can conclude by finding and comparing the accuracy from decision tree and logistic regression. Here, using python helps in providing the visualizations of various attributes. 
 
 **Bibliography:**
 
