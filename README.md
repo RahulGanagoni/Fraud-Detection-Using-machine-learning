@@ -10,7 +10,7 @@ Today, we can say that the fraud is one of the major issues we are facing in our
 
 	Finding an option for the early detection of the fraudulent activities would be very helpful. This might be difficult for any organization to detect each fraudulent activity because they can see thousands of such activities occurring frequently. The main goal of this project is to detect fraud using machine learning as this process makes helpful for the organizations to solve such issues. 
 	
- **** Publications and Systems:****
+ **Publications and Systems:**
   
 •	Pranjal Saxena. (2021). credit card fraud detection. Towardsdatscience.Com. https://towardsdatascience.com/credit-card-fraud-detection-using-machine-learning-python-5b098d4a8edc
 Pranjal Saxena is Data Scientist with 3x Top Writer as well as a career consultant. He performed many machine learning algorithms and just received 99.95% accuracy in detection of fraud credit card transaction.
@@ -44,9 +44,11 @@ I have always been interested to know how the fraud is happening and how are the
 I have uploaded a pynb file where we can see all the analysis and visualizations clearly.
 
 **Conclusion:**
+
 	By performing machine learning algorithms, I can conclude by finding and comparing the accuracy from decision tree and logistic regression. Here, using python helps in providing the visualizations of various attributes. 
 
 **Bibliography:**
+
 •	https://www.kaggle.com/preritsaxena/detecting-fraudulent-transactions/data
 •	Fares Sayah. (2020). Credit Card Fraud Detection. Credit Card Fraud Detection ANNs vs XGBoost. Published. https://www.kaggle.com/faressayah/credit-card-fraud-detection-anns-vs-xgboost/notebook
 
